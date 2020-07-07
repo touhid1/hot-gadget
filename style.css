@@ -1,0 +1,55 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+   
+    border-radius: 10px;
+
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price {
+    color:  #FF136F
+    ;
+
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+}
+.touhid{
+    width: 100%;
+}
+
+.imgs{
+    box-shadow: -10px 5px 5px rgb(55, 59, 59);
+    border-radius: 10px;
+    border: 1px solid rgb(226, 233, 233);
+    width: 150px;
+    padding: 10px;
+    
+    
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+#categories h1{
+    padding-bottom: 8px;
+    border-bottom: 5px solid orange;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+footer{
+    text-align: center;
+}
